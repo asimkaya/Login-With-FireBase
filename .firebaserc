@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-app-7db44": {
+      "hosting": {
+        "login-fire-angular": [
+          "crud-app-7db44"
+        ]
+      }
+    }
+  }
+}
