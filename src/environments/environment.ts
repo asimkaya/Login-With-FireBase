@@ -16,6 +16,15 @@ export const environment = {
   serverUrl: '/api',
   defaultLanguage: 'en-US',
   supportedLanguages: ['en-US'],
+  firebaseConfig: {
+    apiKey: 'AIzaSyBPXHjAyVJED-P-w5gQ0I6na7sdSh-Bg7Q',
+    authDomain: 'crud-app-7db44.firebaseapp.com',
+    projectId: 'crud-app-7db44',
+    storageBucket: 'crud-app-7db44.appspot.com',
+    messagingSenderId: '44316596635',
+    appId: '1:44316596635:web:49446b9dc5dcdebe5ea93e',
+    measurementId: 'G-XJ3V9RTZRG',
+  },
 };
 
 /*
